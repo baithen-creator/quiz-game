@@ -1,0 +1,36 @@
+QUIZ GAME - INSTALLATION INSTRUCTIONS
+
+QUICK START:
+1. Double-click QuizGame.exe to run the multi-round quiz
+2. No Python installation required!
+
+SYSTEM REQUIREMENTS:
+- Windows 10/11
+- No additional software needed
+
+USAGE:
+- Default: Double-click QuizGame.exe (runs multi-round quiz)
+- Single round: Open command prompt, run "QuizGame.exe questions.txt"
+- Clear scores: Run "QuizGame.exe --clear" from command prompt
+
+ADMINISTRATOR CUSTOMIZATION:
+- Edit quiz_setup.txt to modify rounds and question files
+- Edit questions.txt and science_questions.txt to modify questions
+- Create new .txt files with format: Question|answer
+- Add new rounds to quiz_setup.txt with format: Round Name|filename.txt
+
+INCLUDED FILES:
+- QuizGame.exe - Main game executable
+- quiz_setup.txt - Multi-round configuration (editable)
+- questions.txt - General knowledge questions (editable)
+- science_questions.txt - Science questions (editable)
+- README.md - Complete documentation
+- results.txt - Player scores (auto-created)
+
+TROUBLESHOOTING:
+- Keep all files in the same folder as QuizGame.exe
+- If antivirus blocks the file, add exception
+- Ensure question files use format: Question|answer
+- Contact admin if issues persist
+
+Enjoy the quiz!

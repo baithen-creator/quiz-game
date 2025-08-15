@@ -1,0 +1,10 @@
+What is the capital of France?|paris
+What is 2 + 2?|4
+What programming language are we using?|python
+What is the largest planet in our solar system?|jupiter
+What year did World War II end?|1945
+Who put the ball in the English net?|Houghton
+What is capital of Azerbaijan?|Baku
+What is a collection of crows called?|Murder
+What is the chemical symbol for water?|H2O
+In what decade was the BBC established?|1920s
