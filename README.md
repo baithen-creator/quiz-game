@@ -22,7 +22,7 @@ Question text here|answer
 - **Run multi-round**: `python quiz_game.py` (default behavior)
 - **Features**: Individual round scores, total score, combined leaderboard
 
-### Single Round Quiz
+### Sin[questions.txt](questions.txt)gle Round Quiz
 - **Create question file**: Copy format from `questions.txt`
 - **Run single round**: `python quiz_game.py questions.txt`
 - **Custom single rounds**: `python quiz_game.py science_questions.txt`
@@ -33,9 +33,10 @@ Question text here|answer
 - **Backup results**: Copy `results.txt` before clearing
 
 ### Answer Matching Features
-- **Partial matching**: "Paris, France" matches "paris"
-- **Fuzzy matching**: "jupitor" matches "jupiter" (text only)
+- **Partial matching**: "Paris, France" matches "paris" (both directions)
+- **Fuzzy matching**: Up to 2 character errors accepted ("jupitor" matches "jupiter")
 - **Article removal**: "the murder" matches "murder"
+- **Reverse partial**: "Ray Houghton" matches stored answer "Houghton"
 - **Strict numeric**: Math answers must be exact
 
 ### Files
