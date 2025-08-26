@@ -1,2 +1,6 @@
-General Knowledge|questions.txt
-Science Round|science_questions.txt
+Gen AI round|GenAI_Questions.txt
+Maths in the Wild round|MathsInTheWild_Questions.txt
+Design Patterns round|DesignPatterns_Questions.txt
+Science True or False round round|ScienceTrueOrFalse_Questions.txt
+Geography round|Geography_Questions.txt
+Technology round|Technology_Questions.txt

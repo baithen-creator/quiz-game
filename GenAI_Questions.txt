@@ -1,0 +1,10 @@
+Which company created the Claude language model? | Anthropic
+What is the process called when an AI agent generates and tests multiple hypotheses before finalizing an answer? | Self-reflection 
+What is the role of a GAN discriminator? | Classification  
+What is the technique of crafting inputs for AI models? | Prompt Engineering
+Which architecture underlies most large language models? | Transformers
+What does GPT stands for? | Generative Pre-trained Transformer
+Which loss function is commonly used in training probabilistic generative models? | Cross-Entropy
+What is the most common tokenization method for modern LLMs? | BPE Byte Pair Encoding
+What term refers to the smallest units of meaning used in LLM processing? | Tokens
+What is the name of the technique where an AI agent invokes external knowledge sources during a conversation? | RAG

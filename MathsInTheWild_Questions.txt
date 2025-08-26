@@ -1,0 +1,10 @@
+What kind of curve describes the path of a thrown object under gravity? | Parabola
+What ratio term is closely approximated by consecutive Fibonacci numbers? | Golden Ratio  
+Which shape do bees use to build their hives efficiently? | Hexagon  
+What type of geometry is often seen in lightning and river networks? | Fractal  
+Which museum’s spiral ramp design reflects the golden spiral? | Guggenheim  
+What mathematical concept explains the spacing of notes in the equal temperament scale? | Logarithmic  
+Which number is commonly used to describe circular motion and appears in nature? | Pi  
+What pattern is found in sunflower seed arrangements? | Fibonacci Spiral  
+What type of symmetry is found in snowflakes? | Radial  
+Which mathematical concept helps architects design stable arches and domes? | Parabola

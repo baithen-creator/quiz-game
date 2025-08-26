@@ -1,0 +1,11 @@
+
+Which design pattern provides a way to access elements of a collection sequentially without exposing its internal structure? | Iterator Pattern  
+Which design pattern ensures a class has only one instance and provides a global point of access to it? | Singleton Pattern  
+Which design pattern is used to create objects without specifying the exact class of object that will be created? | Factory Method Pattern  
+Which pattern allows behavior to be added to an individual object dynamically, without affecting others of the same class? | Decorator Pattern  
+Which design pattern provides a simplified interface to a complex subsystem? | Facade Pattern  
+Which pattern encapsulates a request as an object, allowing for parameterization and queuing of requests? | Command Pattern  
+Which design pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable? | Strategy Pattern  
+Which pattern allows an object to alter its behavior when its internal state changes? | State Pattern  
+Which design pattern defines a one-to-many dependency so that when one object changes state, all its dependents are notified? | Observer Pattern  
+Which pattern provides a way to create families of related or dependent objects without specifying their concrete classes? | Abstract Factory Pattern  
